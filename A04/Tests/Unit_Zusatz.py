@@ -3,7 +3,7 @@ Created on 27.12.2013
 
 @author: uhs374h
 """
-from A04.Bruch import *
+from A04.A04 import *
 import unittest
 
 
