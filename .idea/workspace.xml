@@ -2,17 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfac86c3-54f0-40a4-bd55-0ff112bfea05" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/A05/MyController.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/A05/MyModel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/animation/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/animation/animatedtiles/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/animation/appchooser/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/animation/easing/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/animation/states/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/declarative/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/declarative/extending/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter1-basics/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter2-methods/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter3-bindings/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter4-customPropertyTypes/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter5-listproperties/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/declarative/signals/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/declarative/signals/pytoqml1/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy1/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy2/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy3/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy4/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/demos/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/demos/embeddeddialogs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/designer/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/designer/calculatorform/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/desktop/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/desktop/systray/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/dialogs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/dialogs/classwizard/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/dialogs/configdialog/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/draganddrop/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/draganddrop/draggableicons/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/draganddrop/draggabletext/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/draganddrop/fridgemagnets/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/draganddrop/puzzle/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/effects/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/graphicsview/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/graphicsview/collidingmice/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/graphicsview/dragdroprobot/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/graphicsview/padnavigator/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/hyperui/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/itemviews/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/itemviews/addressbook/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/itemviews/chart/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/itemviews/editabletreemodel/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/itemviews/pixelator/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/itemviews/puzzle/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/itemviews/simpletreemodel/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/itemviews/stardelegate/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/layouts/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/mainwindows/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/mainwindows/application/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/mainwindows/dockwidgets/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/mainwindows/mdi/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/mainwindows/sdi/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/network/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/network/ftp/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/network/http/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/opengl/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/opengl/textures/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/painting/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/painting/basicdrawing/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/painting/svgviewer/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/phonon/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/phonon/pyqplayer/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/richtext/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/richtext/syntaxhighlighter/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/richtext/textobject/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/script/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/script/calculator/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/sql/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/state-machine/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/threads/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/tools/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/tools/codecs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/tools/i18n/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/tools/qtdemo/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/tools/settingseditor/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/tutorial/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/tutorials/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/tutorials/addressbook/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/webkit/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/webkit/qml-webkit-plugin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/widgets/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/widgets/icons/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/widgets/movie/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/widgets/tooltips/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/xml/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/xml/dombookmarks/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/xml/saxbookmarks/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/xmlpatterns/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PySide/examples/xmlpatterns/schema/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A04/A04.py" afterPath="$PROJECT_DIR$/A04/A04.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A04/Tests/Unit_Addition.py" afterPath="$PROJECT_DIR$/A04/Tests/Unit_Addition.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A04/Tests/Unit_Allgemein.py" afterPath="$PROJECT_DIR$/A04/Tests/Unit_Allgemein.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A04/Tests/Unit_Division.py" afterPath="$PROJECT_DIR$/A04/Tests/Unit_Division.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A04/Tests/Unit_Multiplikation.py" afterPath="$PROJECT_DIR$/A04/Tests/Unit_Multiplikation.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A04/Tests/Unit_String.py" afterPath="$PROJECT_DIR$/A04/Tests/Unit_String.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A04/Tests/Unit_Subtraktion.py" afterPath="$PROJECT_DIR$/A04/Tests/Unit_Subtraktion.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A04/Tests/Unit_Vergleich.py" afterPath="$PROJECT_DIR$/A04/Tests/Unit_Vergleich.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A04/Tests/Unit_Zusatz.py" afterPath="$PROJECT_DIR$/A04/Tests/Unit_Zusatz.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/A04/Testall.py" afterPath="$PROJECT_DIR$/A04/Tests/Testall.py" />
     </list>
     <ignored path="mvojnovic_python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +121,9 @@
     <SUITE FILE_PATH="coverage/mvojnovic_python$Unittest_TestAllgemein_testInvert.coverage" NAME="Unittest TestAllgemein.testInvert Coverage Results" MODIFIED="1477242719045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A04/Tests" />
     <SUITE FILE_PATH="coverage/mvojnovic_python$Unittests_in_Unit_Division.coverage" NAME="Unittests in Unit_Division Coverage Results" MODIFIED="1477255972782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A04/Tests" />
     <SUITE FILE_PATH="coverage/mvojnovic_python$Unittests_in_Unit_Allgemein.coverage" NAME="Unittests in Unit_Allgemein Coverage Results" MODIFIED="1477255953477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A04/Tests" />
+    <SUITE FILE_PATH="coverage/mvojnovic_python$MyView.coverage" NAME="MyView Coverage Results" MODIFIED="1478543504361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A05" />
     <SUITE FILE_PATH="coverage/mvojnovic_python$Unittests_in_Unit_Zusatz.coverage" NAME="Unittests in Unit_Zusatz Coverage Results" MODIFIED="1477254255413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A04/Tests" />
-    <SUITE FILE_PATH="coverage/mvojnovic_python$Unittests_in_Testall.coverage" NAME="Unittests in Testall Coverage Results" MODIFIED="1477256289244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A04/Tests" />
+    <SUITE FILE_PATH="coverage/mvojnovic_python$Unittests_in_Testall.coverage" NAME="Unittests in Testall Coverage Results" MODIFIED="1478543492613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A04/Tests" />
     <SUITE FILE_PATH="coverage/mvojnovic_python$Unittests_in_TestDivision.coverage" NAME="Unittests in TestDivision Coverage Results" MODIFIED="1477228133446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A04/Tests" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -49,120 +135,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="A04.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="A04.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/A04/A04.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
+            <state relative-caret-position="742">
               <caret line="158" column="43" selection-start-line="158" selection-start-column="43" selection-end-line="158" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Unit_Addition.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Addition.py">
+      <file leaf-file-name="MyView.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/A05/MyView.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="208">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Testall.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A04/Tests/Testall.py">
+      <file leaf-file-name="MyController.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A05/MyController.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="318" column="0" selection-start-line="318" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="16">
+              <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Unit_Multiplikation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Multiplikation.py">
+      <file leaf-file-name="MyModel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A05/MyModel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unit_Allgemein.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Allgemein.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unit_Division.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Division.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unit_String.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_String.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unit_Subtraktion.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Subtraktion.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unit_Vergleich.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Vergleich.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding>
-                <element signature="e#48#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unit_Zusatz.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Zusatz.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-              <folding>
-                <element signature="e#48#69#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="48">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -195,6 +203,9 @@
         <option value="$PROJECT_DIR$/A04/Tests/Unit_Allgemein.py" />
         <option value="$PROJECT_DIR$/Bruch/A04.py" />
         <option value="$PROJECT_DIR$/A04/A04.py" />
+        <option value="$PROJECT_DIR$/A05/MyView.py" />
+        <option value="$PROJECT_DIR$/A05/MyModel.py" />
+        <option value="$PROJECT_DIR$/A05/MyController.py" />
       </list>
     </option>
   </component>
@@ -205,10 +216,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1932" />
-    <option name="height" value="1056" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -235,14 +245,38 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="mvojnovic_python" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvojnovic_python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvojnovic_python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvojnovic_python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvojnovic_python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="A05" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -301,10 +335,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Schule\mvojnovic_python" />
+      <recent name="D:\Schule\mvojnovic_python\A05\A05" />
       <recent name="D:\Schule\mvojnovic_python\A04\Tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in Testall">
+  <component name="RunManager" selected="Python.MyView">
     <configuration default="false" name="Unittests in Testall" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -340,29 +376,6 @@
       <module name="mvojnovic_python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A04/Tests/Unit_Division.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in Unit_Allgemein" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A04/Tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mvojnovic_python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A04/Tests/Unit_Allgemein.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -418,6 +431,24 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MyView" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mvojnovic_python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Schule\mvojnovic_python\A05\A05\MyView.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -631,17 +662,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in Testall" />
       <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in Unit_Division" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in Unit_Allgemein" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in Unit_Subtraktion" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in Unit_Addition" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in Unit_Subtraktion" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in Unit_Addition" />
+      <item index="4" class="java.lang.String" itemvalue="Python.MyView" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in Testall" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in Unit_Addition" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in Unit_Subtraktion" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in Unit_Division" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in Unit_Allgemein" />
+        <item index="0" class="java.lang.String" itemvalue="Python.MyView" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in Testall" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in Unit_Addition" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in Unit_Subtraktion" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in Unit_Division" />
       </list>
     </recent_temporary>
   </component>
@@ -659,12 +690,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_Testall - 2016.10.23 at 22h 54m 48s.xml">
-      <configuration name="Unittests in Testall" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Testall - 2016.10.23 at 22h 54m 55s.xml">
-      <configuration name="Unittests in Testall" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_Testall - 2016.10.23 at 22h 54m 57s.xml">
       <configuration name="Unittests in Testall" configurationId="tests" />
     </history-entry>
@@ -675,6 +700,12 @@
       <configuration name="Unittests in Testall" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_Testall - 2016.10.23 at 22h 58m 09s.xml">
+      <configuration name="Unittests in Testall" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Testall - 2016.11.07 at 19h 31m 35s.xml">
+      <configuration name="Unittests in Testall" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Testall - 2016.11.07 at 19h 31m 39s.xml">
       <configuration name="Unittests in Testall" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_Unit_Addition - 2016.10.23 at 22h 55m 03s.xml">
@@ -691,21 +722,20 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
-    <editor active="false" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18006264" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24112734" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38372093" sideWeight="0.51043844" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25506938" sideWeight="0.5146138" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38372093" sideWeight="0.4895616" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25506938" sideWeight="0.48538622" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41331923" sideWeight="0.49791667" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957717" sideWeight="0.49791667" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -713,6 +743,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30202776" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41331923" sideWeight="0.49791667" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -728,17 +759,338 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/A05/MyController.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/A02/A02.py">
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Subtraktion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Vergleich.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Zusatz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#48#69#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/A04.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Addition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding>
-            <element signature="e#0#16#0" expanded="false" />
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Testall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5072">
+          <caret line="318" column="0" selection-start-line="318" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Multiplikation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Allgemein.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Division.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Subtraktion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Vergleich.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Zusatz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#48#69#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/A04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Addition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Testall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5088">
+          <caret line="318" column="0" selection-start-line="318" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Multiplikation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Allgemein.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Division.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Subtraktion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Vergleich.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Zusatz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#48#69#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/A04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Addition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Testall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5072">
+          <caret line="318" column="0" selection-start-line="318" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Multiplikation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Allgemein.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Division.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Subtraktion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Vergleich.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Zusatz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#48#69#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -747,9 +1099,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#16#0" expanded="false" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A02/A02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -757,7 +1113,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
           <caret line="850" column="8" selection-start-line="850" selection-start-column="8" selection-end-line="850" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,9 +1120,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
           <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#16#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -775,104 +1127,125 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="726" column="0" selection-start-line="726" selection-start-column="0" selection-end-line="726" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_String.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
+        <state relative-caret-position="432">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
-            <element signature="e#48#63#0" expanded="true" />
+            <element signature="e#48#63#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Zusatz.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
+        <state relative-caret-position="128">
           <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           <folding>
-            <element signature="e#48#69#0" expanded="true" />
+            <element signature="e#48#69#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Multiplikation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
+        <state relative-caret-position="768">
           <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding>
-            <element signature="e#48#63#0" expanded="true" />
+            <element signature="e#48#63#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Vergleich.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
+        <state relative-caret-position="480">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <element signature="e#48#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Allgemein.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-          <folding>
-            <element signature="e#48#63#0" expanded="true" />
+            <element signature="e#48#63#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Division.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
+        <state relative-caret-position="336">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <element signature="e#48#63#0" expanded="true" />
+            <element signature="e#48#63#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Subtraktion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
+        <state relative-caret-position="464">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
-            <element signature="e#48#63#0" expanded="true" />
+            <element signature="e#48#63#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Addition.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
+        <state relative-caret-position="656">
           <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding>
-            <element signature="e#48#63#0" expanded="true" />
+            <element signature="e#48#63#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A04/Tests/Testall.py">
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Allgemein.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="318" column="0" selection-start-line="318" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
+        <state relative-caret-position="523">
+          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding>
-            <element signature="e#48#63#0" expanded="true" />
+            <element signature="e#48#63#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A04/A04.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
+        <state relative-caret-position="742">
           <caret line="158" column="43" selection-start-line="158" selection-start-column="43" selection-end-line="158" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A04/Tests/Testall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5023">
+          <caret line="318" column="0" selection-start-line="318" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A05/MyModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A05/MyController.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A05/MyView.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
           <folding />
         </state>
       </provider>
