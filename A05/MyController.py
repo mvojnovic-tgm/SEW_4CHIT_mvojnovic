@@ -1,11 +1,11 @@
-from PySide.QtCore import *
-from PySide.QtGui import *
+from PySide import QtCore,QtGui
 
-from MyView import *
-from MyModel import *
+from A05.MyModel import *
+from A05 import MyView
 
 
-class MyController(QWidget):
+
+class MyController(QtGui.QWidget):
   """
   MVC pattern: Creates a controller - mvc pattern.
   """
@@ -23,3 +23,5 @@ class MyController(QWidget):
       self.connectButtons()
       # start a new game
       self.start()
+
+MyController()
