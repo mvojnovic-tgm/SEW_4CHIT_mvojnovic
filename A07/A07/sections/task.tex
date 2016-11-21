@@ -1,0 +1,38 @@
+%!TEX root=../document.tex
+
+\section{Einführung}
+
+\subsection{Grundanforderungen}
+
+\begin{itemize}
+	\item Zwei eigene Klassen (Consumer und Producer) erben von Thread (E1 und V1)
+	\item Die zwei Klassen sind über einen Queue verbunden
+	\item Der Erzeuger E1 sucht nach Primzahlen. Jede gefundene Primzahl wird über die Queue an den Verbraucher V1 geschickt
+	\item Der Verbraucher gibt die empfangene Zahl in der Konsole aus und schreibt sie außerdem in eine simple Textdatei
+	\item Erzeuger und Verbraucher stimmen sich über Queue.task done() und Queue.join() ab Kommentare und Sphinx-Dokumentation
+	\item Kurzes Protokoll über deine Vorgangsweise, Aufwand, Resultate, Beobachtungen, Schwierigkeiten, ... Bitte sauberes Dokument erstellen! (Kopf- und Fußzeile etc.)
+\end{itemize}
+
+\subsection{Erweiterungen}
+
+\begin{itemize}
+	\item Ein weiterer Thread nimmt Benutzereingaben entgegen
+	\item Dieser Thread kann als ein weiterer Erzeuger E2 gesehen werden
+	\item Wird eine (potentiell sehr große) Zahl eingegeben, so wird in einem weiteren Verbraucher V2 überprüft, ob es sich bei dieser produzierten Zahl um eine Primzahl handelt
+	\item E2 und V2 müssen sich nicht über task done() absprechen, d.h. E2 kann mehrere Aufträge in die Queue schicken, bevor V2 mit der Bearbeitung fertig ist
+	\item Wird "exit" eingegeben, so werden alle Threads sauber beendet
+	\item Achte auf Fehlerfälle!
+\end{itemize}
+
+\subsection{Voraussetzungen}
+
+\begin{itemize}
+	\item Python Kentnisse
+	\item threading Kentnisse
+\end{itemize}
+
+
+\subsection{Aufgabenstellung}
+
+Schreibe ein Programm, welches ein simples Erzeuger-Verbraucher-Muster implementiert!
+\clearpage

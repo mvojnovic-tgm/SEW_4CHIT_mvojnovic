@@ -1,3 +1,46 @@
+%!TEX root=../document.tex
+
+\section{Ergebnisse}
+
+\subsection{Eine Klasse erbt von Thread}
+
+\begin{lstlisting}[language=python]
+import threading
+class A06(threading.Thread):
+\end{lstlisting}
+
+\subsection{Gemeinsamer Lock und Counter}
+\begin{lstlisting}[language=python]
+counter = 0
+lock = threading.Lock()
+\end{lstlisting}
+
+\subsection{Paramter im Konstruktor}
+
+\begin{lstlisting}[language=python]
+    def __init__(self, tNumbers):
+        """
+
+        :param tNumbers: Eine Liste aus Nummern welche der jweilige Thread zo counter dazu addieren soll
+        """
+\end{lstlisting}
+
+\subsection{Korrekt aufsummieren}
+
+\begin{lstlisting}[language=python]
+    def run(self):
+        for i in range(len(self.tNumbers)):
+            with A06.lock:
+                # hier wird counter immer um die Zahl an der Stellle 0 der liste erhoeht
+                # dann wird die Stelle 0 geloescht und alles rueckt nach links(2 -> 1, 1 -> 0, etc.)
+                A06.counter += self.tNumbers[0]
+                print("Current Value: " + str(A06.counter))
+                del(self.tNumbers[0])
+\end{lstlisting}
+\clearpage
+\subsection{Der ganze Code}
+
+\begin{lstlisting}[language=python]
 import threading
 import time
 
@@ -12,15 +55,14 @@ class A06(threading.Thread):
         """
         threading.Thread.__init__(self)
         self.tNumbers = tNumbers
-
     def run(self):
-        with A06.lock:
-            for i in self.tNumbers:
+        for i in range(len(self.tNumbers)):
+            with A06.lock:
                 # hier wird counter immer um die Zahl an der Stellle 0 der liste erhoeht
                 # dann wird die Stelle 0 geloescht und alles rueckt nach links(2 -> 1, 1 -> 0, etc.)
-                A06.counter += i
-                #print("Current Value: " + str(A06.counter))
-                # del(self.tNumbers[0])
+                A06.counter += self.tNumbers[0]
+                print("Current Value: " + str(A06.counter))
+                del(self.tNumbers[0])
 
 def getInput():
     """
@@ -173,3 +215,21 @@ def main():
     main4Threads(numberHelp)
 
 main()
+\end{lstlisting}
+
+\subsection{Consol Outpu bei Eingabe 1000}
+\begin{figure}[!h]
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{images/consolOutput.png}
+		\caption{Consolen Output}
+		\label{broker}
+	\end{center}
+\end{figure}
+
+\section{Interpretation}
+
+Es ist erkennbar bei wiederholten Versuchen das die Erhoeung der Thread-Anzahl zur verlangsamung des Programmes fuehrt
+
+\section{Massnahmen}
+
+So wenige Threads wie moeglich verwenden

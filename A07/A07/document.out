@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Einf\374hrung}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Grundanforderungen}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Erweiterungen}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Voraussetzungen}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Aufgabenstellung}{section.1}% 5
+\BOOKMARK [1][-]{section.2}{Ergebnisse}{}% 6
+\BOOKMARK [2][-]{subsection.2.1}{Zwei eigene Klassen \(Consumer und Producer\) erben von Thread \(E1 und V1\)}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.2}{Die zwei Klassen sind \374ber einen Queue verbunden}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.3}{E1 sucht nach Primzahlen, ueber Queue an V1}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.4}{V1 gibt empfangene Zahl aus und schreibt in ein text file}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.5}{Der ganze Code}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.6}{Consol Outpu bei Eingabe 1000}{section.2}% 12

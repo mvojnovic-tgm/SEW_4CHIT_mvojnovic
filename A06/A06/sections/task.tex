@@ -1,0 +1,36 @@
+%!TEX root=../document.tex
+
+\section{Einführung}
+
+\subsection{Grundanforderungen}
+
+\begin{itemize}
+	\item Eine eigene Klasse erbt von Thread
+	\item Die Klasse definiert eine gemeinsame Lock sowie einen gemeinsamen Counter
+	\item Im Konstruktor wird über einen Parameter bestimmt, für welche Zahlen dieser Thread zuständig ist
+	\item In der run-Methode wird die Summe korrekt aufsummiert, wobei der Zugriff auf den Counter über die Lock threadsicher gestaltet wird (with-Statement)
+	\item Kommentare und Sphinx-Dokumentation
+	\item Kurzes Protokoll über deine Vorgangsweise, Aufwand, Resultate, Beobachtungen, Schwierigkeiten, ... (Kopf- und Fußzeile etc.)
+\end{itemize}
+
+\subsection{Erweiterungen}
+
+\begin{itemize}
+	\item Miss die Laufzeit!
+	\item Untersuche, wie sich die Laufzeit auf deinem System verhält, wenn du es mit mehr oder weniger Threads verwendest, z.B. Single Threaded (d.h. nur im main-Thread), mit 2 Threads, mit 3 Threads, ...
+	\item Interpretiere die Ergebnisse und halte deine Erkenntnisse im Protokoll fest! Warum verhält es sich so?
+	\item Finde eine Möglichkeit, wie die Performance verbessert werden kann und eventuelle Beschränkungen umgangen werden können!
+\end{itemize}
+
+\subsection{Voraussetzungen}
+
+\begin{itemize}
+	\item Python Kentnisse
+	\item threading Kentnisse
+\end{itemize}
+
+
+\subsection{Aufgabenstellung}
+
+Schreibe ein Programm, welches die Summe von 1 bis zu einer von dem/der Benutzer/in einzugebenden (potentiell sehr großen) Zahl mithilfe von drei Threads berechnet!
+\clearpage

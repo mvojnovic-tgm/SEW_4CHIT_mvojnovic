@@ -2,1105 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfac86c3-54f0-40a4-bd55-0ff112bfea05" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/A05/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/A06/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/A06/mySynchThread.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/Qt3Support4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtCLucene4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtCore.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtCore4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtDeclarative.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtDeclarative4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtDesigner4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtDesignerComponents4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtGui.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtGui4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtHelp.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtHelp4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtMultimedia.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtMultimedia4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtNetwork.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtNetwork4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtOpenGL.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtOpenGL4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtScript.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtScript4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtScriptTools.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtScriptTools4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtSql.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtSql4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtSvg.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtSvg4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtTest.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtTest4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtUiTools.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtWebKit.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtWebKit4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtXml.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtXml4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtXmlPatterns.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/QtXmlPatterns4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/_utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/designer.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/.buildinfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/.doctrees/codeinjectionsemantics.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/.doctrees/commandlineoptions.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/.doctrees/contents.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/.doctrees/environment.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/.doctrees/faq.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/.doctrees/overview.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/.doctrees/ownership.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/.doctrees/projectfile.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/.doctrees/sequenceprotocol.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/.doctrees/shibokenmodule.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/.doctrees/typeconverters.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/.doctrees/typesystemvariables.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/.doctrees/wordsofadvice.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_images/bindinggen-development.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_images/boostqtarch.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_images/converter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_sources/codeinjectionsemantics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_sources/commandlineoptions.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_sources/contents.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_sources/faq.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_sources/overview.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_sources/ownership.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_sources/projectfile.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_sources/sequenceprotocol.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_sources/shibokenmodule.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_sources/typeconverters.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_sources/typesystemvariables.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_sources/wordsofadvice.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/basic.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/bg_header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/bg_topo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/comment-bright.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/comment-close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/comment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/doctools.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/down-pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/fakebar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/file.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/logo_python.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/logo_qt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/pygments.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/pysidedocs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/pysidelogo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/relbar_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/searchtools.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/sidebar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/underscore.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/up-pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/_static/websupport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/codeinjectionsemantics.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/commandlineoptions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/contents.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/objects.inv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/overview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/ownership.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/projectfile.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/searchindex.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/sequenceprotocol.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/shibokenmodule.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/typeconverters.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/typesystemvariables.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/docs/shiboken/wordsofadvice.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/animatedtiles/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/animatedtiles/animatedtiles.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/animatedtiles/animatedtiles.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/animatedtiles/animatedtiles_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/animatedtiles/images/Time-For-Lunch-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/animatedtiles/images/centered.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/animatedtiles/images/ellipse.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/animatedtiles/images/figure8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/animatedtiles/images/kinetic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/animatedtiles/images/random.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/animatedtiles/images/tile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/appchooser/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/appchooser/accessories-dictionary.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/appchooser/akregator.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/appchooser/appchooser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/appchooser/appchooser.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/appchooser/appchooser_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/appchooser/digikam.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/appchooser/k3b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/easing/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/easing/easing.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/easing/easing.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/easing/easing_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/easing/form.ui" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/easing/images/qt-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/easing/ui_form.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/states/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/states/accessories-dictionary.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/states/akregator.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/states/digikam.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/states/help-browser.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/states/k3b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/states/kchart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/states/states.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/states/states.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/animation/states/states_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/extending/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter1-basics/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter1-basics/app.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter1-basics/basics.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter2-methods/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter2-methods/app.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter2-methods/methods.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter3-bindings/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter3-bindings/app.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter3-bindings/bindings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter4-customPropertyTypes/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter4-customPropertyTypes/app.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter4-customPropertyTypes/customPropertyTypes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter5-listproperties/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter5-listproperties/app.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/extending/chapter5-listproperties/listproperties.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/PhotoViewerCore/AlbumDelegate.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/PhotoViewerCore/BusyIndicator.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/PhotoViewerCore/Button.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/PhotoViewerCore/EditableButton.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/PhotoViewerCore/PhotoDelegate.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/PhotoViewerCore/ProgressBar.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/PhotoViewerCore/RssModel.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/PhotoViewerCore/Tag.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/PhotoViewerCore/images/box-shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/PhotoViewerCore/images/busy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/PhotoViewerCore/images/cardboard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/PhotoViewerCore/qmldir" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/PhotoViewerCore/script/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/i18n/base.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/i18n/qml_fr.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/i18n/qml_fr.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/photoviewer.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/photoviewer/photoviewer.qmlproject" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/scrolling.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/pytoqml1/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/pytoqml1/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/pytoqml1/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/pytoqml1/view.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy1/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy1/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy1/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy1/view.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy2/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy2/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy2/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy2/view.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy3/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy3/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy3/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy3/view.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy4/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy4/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy4/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/signals/qmltopy4/view.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/usingmodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/declarative/view.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/embeddeddialogs/No-Ones-Laughing-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/embeddeddialogs/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/embeddeddialogs/embeddeddialog.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/embeddeddialogs/embeddeddialog.ui" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/embeddeddialogs/embeddeddialogs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/embeddeddialogs/embeddeddialogs.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/embeddeddialogs/embeddeddialogs_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/colors.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/demoitem.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/demoitemanimation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/demoscene.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/demotextitem.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/dockitem.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/examplecontent.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/guide.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/guidecircle.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/guideline.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/headingitem.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/imageitem.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/images/demobg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/images/qtlogo_small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/images/trolltech-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/itemcircleanimation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/letteritem.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/mainwindow.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/menucontent.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/menumanager.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/qtdemo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/qtdemo.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/qtdemo_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/scanitem.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/score.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/textbutton.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/demos/qtdemo/xml/examples.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/designer/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/designer/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/designer/calculatorform/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/designer/calculatorform/calculatorform.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/designer/calculatorform/calculatorform.ui" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/designer/calculatorform/ui_calculatorform.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/desktop/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/desktop/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/desktop/screenshot.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/desktop/systray/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/desktop/systray/images/bad.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/desktop/systray/images/heart.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/desktop/systray/images/trash.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/desktop/systray/systray.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/desktop/systray/systray.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/desktop/systray/systray_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/classwizard/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/classwizard/classwizard.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/classwizard/classwizard.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/classwizard/classwizard_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/classwizard/images/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/classwizard/images/banner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/classwizard/images/logo1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/classwizard/images/logo2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/classwizard/images/logo3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/classwizard/images/watermark1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/classwizard/images/watermark2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/configdialog/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/configdialog/configdialog.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/configdialog/configdialog.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/configdialog/configdialog_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/configdialog/images/config.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/configdialog/images/query.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/configdialog/images/update.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/extension.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/findfiles.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/findfiles_test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/standarddialogs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/tabdialog.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/dialogs/trivialwizard.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/draggableicons/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/draggableicons/draggableicons.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/draggableicons/draggableicons.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/draggableicons/draggableicons_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/draggableicons/images/boat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/draggableicons/images/car.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/draggableicons/images/house.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/draggabletext/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/draggabletext/draggabletext.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/draggabletext/draggabletext.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/draggabletext/draggabletext_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/draggabletext/words.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/fridgemagnets/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/fridgemagnets/fridgemagnets.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/fridgemagnets/fridgemagnets.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/fridgemagnets/fridgemagnets_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/fridgemagnets/words.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/puzzle/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/puzzle/example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/puzzle/puzzle.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/puzzle/puzzle.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/draganddrop/puzzle/puzzle_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/effects/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/effects/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/effects/lighting.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/anchorlayout.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/collidingmice/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/collidingmice/collidingmice.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/collidingmice/images/cheese.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/collidingmice/mice.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/collidingmice/mice_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/diagramscene.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/diagramscene.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/diagramscene_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/images/background1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/images/background2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/images/background3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/images/background4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/images/bold.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/images/bringtofront.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/images/delete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/images/floodfill.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/images/italic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/images/linecolor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/images/linepointer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/images/pointer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/images/sendtoback.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/images/textpointer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/diagramscene/images/underline.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/dragdroprobot/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/dragdroprobot/dragdroprobot.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/dragdroprobot/dragdroprobot.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/dragdroprobot/dragdroprobot_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/dragdroprobot/images/head.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/elasticnodes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/padnavigator/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/padnavigator/backside.ui" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/padnavigator/images/artsfftscope.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/padnavigator/images/blue_angle_swirl.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/padnavigator/images/kontact_contacts.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/padnavigator/images/kontact_journal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/padnavigator/images/kontact_mail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/padnavigator/images/kontact_notes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/padnavigator/images/kopeteavailable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/padnavigator/images/metacontact_online.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/padnavigator/images/minitools.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/padnavigator/padnavigator.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/padnavigator/padnavigator.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/padnavigator/padnavigator_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/graphicsview/padnavigator/ui_backside.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperui" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/clockwidget.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/contactlist.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/contactresource.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/draggablepreview.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/kineticscroll.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/mainwindow.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/menuview.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/pagemenu.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/pageview.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/phoneview.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/qt_global.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/contactlist.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/hyperui.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/hyperui.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/hyperui_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/call_photo_athila.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/call_photo_dani.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/call_photo_marcia.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/call_photo_nobody.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer/bottom_left_key.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer/bottom_left_key_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer/bottom_right_key.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer/bottom_right_key_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer/middle_key.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer/middle_key_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer/top_left_key.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer/top_left_key_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer/top_right_key.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer/top_right_key_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer_bk_bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer_bk_lineexpand.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer_bk_top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer_bt_call.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer_bt_call_over.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer_bt_contacts.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer_bt_contacts_over.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer_bt_dialer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer_bt_endcall.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer_bt_endcall_over.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer_bt_mute.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer_bt_speaker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer_bullet_phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer_display_background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer_display_bt_cancel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/dialer_photo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/idle_clock_pointer_hour.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/idle_clock_pointer_minutes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/idle_clock_pointers_middle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/idle_clock_structure.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/idle_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/list_abc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/list_abcmarker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/list_divisor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/list_icon_chat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/list_icon_world.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/list_photo_athila.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/list_photo_dani.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/list_photo_marcia.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/menu_bt_calendar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/menu_bt_camera.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/menu_bt_chat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/menu_bt_email.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/menu_bt_folder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/menu_bt_games.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/menu_bt_music.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/menu_bt_navigation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/menu_bt_phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/menu_bt_settings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/menu_bt_twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/menu_bt_web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/screen_unlock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/top_bar_active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/top_bt_back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/top_bt_back_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/top_bt_options.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/top_bt_options_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/topbar_3g.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/topbar_battery.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/resource/images/topbar_network.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/scrollarea.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/shared/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/shared/button.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/shared/dataresource.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/shared/label.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/shared/pixmapwidget.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/shared/qt_system.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/shared/utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/hyperuilib/view.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/hyperui/setup.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/addressbook/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/addressbook/adddialogwidget.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/addressbook/addressbook.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/addressbook/addresswidget.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/addressbook/newaddresstab.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/addressbook/tablemodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/basicsortfiltermodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/chart/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/chart/chart.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/chart/chart.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/chart/chart_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/chart/mydata.cht" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/chart/qtdata.cht" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/dirview.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/editabletreemodel/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/editabletreemodel/default.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/editabletreemodel/editabletreemodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/editabletreemodel/editabletreemodel.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/editabletreemodel/editabletreemodel_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/editabletreemodel/mainwindow.ui" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/editabletreemodel/ui_mainwindow.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/fetchmore.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/pixelator/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/pixelator/images.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/pixelator/images/qt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/pixelator/pixelator.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/pixelator/pixelator.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/pixelator/pixelator_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/puzzle/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/puzzle/example.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/puzzle/puzzle.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/puzzle/puzzle.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/puzzle/puzzle_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/simpledommodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/simpletreemodel/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/simpletreemodel/default.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/simpletreemodel/simpletreemodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/simpletreemodel/simpletreemodel.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/simpletreemodel/simpletreemodel_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/spinboxdelegate.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/stardelegate/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/stardelegate/stardelegate.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/stardelegate/stareditor.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/itemviews/stardelegate/starrating.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/layouts/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/layouts/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/layouts/basiclayouts.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/layouts/borderlayout.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/layouts/dynamiclayouts.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/layouts/flowlayout.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/application/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/application/application.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/application/application.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/application/application_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/application/images/copy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/application/images/cut.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/application/images/new.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/application/images/open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/application/images/paste.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/application/images/save.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/dockwidgets/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/dockwidgets/dockwidgets.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/dockwidgets/dockwidgets.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/dockwidgets/dockwidgets_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/dockwidgets/images/new.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/dockwidgets/images/print.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/dockwidgets/images/save.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/dockwidgets/images/undo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/mdi/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/mdi/images/copy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/mdi/images/cut.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/mdi/images/new.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/mdi/images/open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/mdi/images/paste.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/mdi/images/save.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/mdi/mdi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/mdi/mdi.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/mdi/mdi_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/menus.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/recentfiles.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/sdi/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/sdi/images/copy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/sdi/images/cut.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/sdi/images/new.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/sdi/images/open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/sdi/images/paste.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/sdi/images/save.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/sdi/sdi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/sdi/sdi.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/mainwindows/sdi/sdi_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/blockingfortuneclient.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/broadcastreceiver.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/broadcastsender.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/fortuneclient.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/fortuneserver.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/ftp/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/ftp/ftp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/ftp/ftp.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/ftp/ftp_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/ftp/images/cdtoparent.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/ftp/images/dir.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/ftp/images/file.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/http.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/http/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/http/authenticationdialog.ui" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/http/http.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/loopback.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/network/threadedfortuneserver.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/opengl/2dpainting.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/opengl/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/opengl/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/opengl/grabber.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/opengl/hellogl.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/opengl/overpainting.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/opengl/samplebuffers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/opengl/textures/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/opengl/textures/images/side1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/opengl/textures/images/side2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/opengl/textures/images/side3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/opengl/textures/images/side4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/opengl/textures/images/side5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/opengl/textures/images/side6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/opengl/textures/textures.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/opengl/textures/textures.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/opengl/textures/textures_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/painting/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/painting/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/painting/basicdrawing/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/painting/basicdrawing/basicdrawing.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/painting/basicdrawing/basicdrawing.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/painting/basicdrawing/basicdrawing_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/painting/basicdrawing/images/brick.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/painting/basicdrawing/images/qt-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/painting/concentriccircles.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/painting/painterpaths.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/painting/svgviewer/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/painting/svgviewer/files/bubbles.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/painting/svgviewer/files/cubic.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/painting/svgviewer/files/spheres.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/painting/svgviewer/svgviewer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/painting/svgviewer/svgviewer.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/painting/svgviewer/svgviewer_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/painting/transformations.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/phonon/FolgersCoffe_512kb_mp4_026vbr260.ogv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/phonon/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/phonon/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/phonon/capabilities.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/phonon/musicplayer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/phonon/pyqplayer/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/phonon/pyqplayer/images/folder-music.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/phonon/pyqplayer/images/pause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/phonon/pyqplayer/images/play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/phonon/pyqplayer/images/qplayer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/phonon/pyqplayer/images/stop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/phonon/pyqplayer/pysideqplayer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/phonon/pyqplayer/qplayer.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/phonon/pyqplayer/qrc_resources.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/phonon/videoplayer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/richtext/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/richtext/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/richtext/calendar.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/richtext/orderform.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/richtext/syntaxhighlighter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/richtext/syntaxhighlighter/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/richtext/syntaxhighlighter/examples/example" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/richtext/syntaxhighlighter/syntaxhighlighter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/richtext/syntaxhighlighter/syntaxhighlighter.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/richtext/syntaxhighlighter/syntaxhighlighter_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/richtext/textobject/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/richtext/textobject/files/heart.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/richtext/textobject/textobject.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/script/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/script/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/script/calculator/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/script/calculator/calculator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/script/calculator/calculator.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/script/calculator/calculator.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/script/calculator/calculator.ui" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/script/calculator/calculator_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/script/helloscript.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/sql/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/sql/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/sql/cachedtable.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/sql/connection.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/sql/querymodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/sql/relationaltablemodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/sql/tablemodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/state-machine/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/state-machine/eventtrans.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/state-machine/factstates.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/state-machine/pingpong.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/state-machine/rogue.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/state-machine/trafficlight.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/state-machine/twowaybutton.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/threads/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/threads/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/threads/mandelbrot.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/threads/semaphores.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/threads/waitconditions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/codecs/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/codecs/codecs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/codecs/encodedfiles/iso-8859-1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/codecs/encodedfiles/iso-8859-15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/codecs/encodedfiles/utf-16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/codecs/encodedfiles/utf-16be.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/codecs/encodedfiles/utf-16le.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/codecs/encodedfiles/utf-8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/i18n.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/i18n.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/i18n_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_ar.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_ar.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_cs.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_cs.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_de.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_de.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_el.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_el.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_en.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_en.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_eo.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_eo.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_fr.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_fr.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_it.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_it.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_jp.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_jp.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_ko.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_ko.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_no.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_no.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_pt.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_pt.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_ru.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_ru.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_sv.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_sv.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_zh.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/i18n/translations/i18n_zh.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/qtdemo/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/qtdemo/demos.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/qtdemo/displayshape.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/qtdemo/displaywidget.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/qtdemo/examples.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/qtdemo/images/qt4-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/qtdemo/images/rb-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/qtdemo/launcher.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/qtdemo/qtdemo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/qtdemo/qtdemo.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/qtdemo/qtdemo.rc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/qtdemo/qtdemo_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/regexp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/settingseditor/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/settingseditor/inifiles/licensepage.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/settingseditor/inifiles/qsa.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/settingseditor/inifiles/troll.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tools/settingseditor/settingseditor.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorial/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorial/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorial/t1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorial/t10.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorial/t11.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorial/t12.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorial/t13.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorial/t14.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorial/t2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorial/t3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorial/t4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorial/t5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorial/t6.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorial/t7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorial/t8.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorial/t9.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorials/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorials/addressbook/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorials/addressbook/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorials/addressbook/part1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorials/addressbook/part2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorials/addressbook/part3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorials/addressbook/part4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorials/addressbook/part5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorials/addressbook/part6.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/tutorials/addressbook/part7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/webkit/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/webkit/hellowebkit.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/webkit/qml-webkit-plugin/HelloWorld.qml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/webkit/qml-webkit-plugin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/webkit/qml-webkit-plugin/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/webkit/qml-webkit-plugin/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/analogclock.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/calculator.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/charactermap.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/digitalclock.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/groupbox.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/icons/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/icons/icons.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/icons/images/designer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/icons/images/find_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/icons/images/find_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/icons/images/monkey_off_128x128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/icons/images/monkey_off_16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/icons/images/monkey_off_32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/icons/images/monkey_off_64x64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/icons/images/monkey_on_128x128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/icons/images/monkey_on_16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/icons/images/monkey_on_32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/icons/images/monkey_on_64x64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/icons/images/qt_extended_16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/icons/images/qt_extended_32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/icons/images/qt_extended_48x48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/imageviewer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/lineedits.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/movie/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/movie/animation.mng" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/movie/movie.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/scribble.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/shapedclock.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/sliders.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/spinboxes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/styles.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/tetrix.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/tooltips/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/tooltips/images/circle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/tooltips/images/square.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/tooltips/images/triangle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/tooltips/tooltips.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/tooltips/tooltips.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/tooltips/tooltips_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/wiggly.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/widgets/windowflags.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xml/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xml/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xml/dombookmarks/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xml/dombookmarks/dombookmarks.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xml/dombookmarks/frank.xbel" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xml/dombookmarks/jennifer.xbel" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xml/saxbookmarks/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xml/saxbookmarks/frank.xbel" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xml/saxbookmarks/jennifer.xbel" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xml/saxbookmarks/saxbookmarks.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xmlpatterns/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xmlpatterns/schema/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xmlpatterns/schema/files/contact.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xmlpatterns/schema/files/invalid_contact.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xmlpatterns/schema/files/invalid_order.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xmlpatterns/schema/files/invalid_recipe.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xmlpatterns/schema/files/order.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xmlpatterns/schema/files/recipe.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xmlpatterns/schema/files/valid_contact.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xmlpatterns/schema/files/valid_order.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xmlpatterns/schema/files/valid_recipe.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xmlpatterns/schema/schema.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xmlpatterns/schema/schema.qrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xmlpatterns/schema/schema.ui" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xmlpatterns/schema/schema_rc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/examples/xmlpatterns/schema/ui_schema.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/imports/Qt/labs/folderlistmodel/qmldir" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/imports/Qt/labs/folderlistmodel/qmlfolderlistmodelplugin.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/imports/Qt/labs/folderlistmodel/qmlfolderlistmodelplugind.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/imports/Qt/labs/gestures/qmldir" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/imports/Qt/labs/gestures/qmlgesturesplugin.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/imports/Qt/labs/gestures/qmlgesturesplugind.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/imports/Qt/labs/particles/qmldir" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/imports/Qt/labs/particles/qmlparticlesplugin.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/imports/Qt/labs/particles/qmlparticlesplugind.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/imports/Qt/labs/shaders/qmldir" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/imports/Qt/labs/shaders/qmlshadersplugin.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/imports/Qt/labs/shaders/qmlshadersplugind.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/imports/QtWebKit/qmldir" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/imports/QtWebKit/qmlwebkitplugin.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/imports/QtWebKit/qmlwebkitplugind.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/QtCore/pyside_qtcore_python.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/QtDeclarative/pyside_qtdeclarative_python.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/QtGui/pyside_qtgui_python.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/QtGui/qpytextobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/QtHelp/pyside_qthelp_python.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/QtMultimedia/pyside_qtmultimedia_python.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/QtNetwork/pyside_qtnetwork_python.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/QtOpenGL/pyside_qtopengl_python.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/QtScript/pyside_qtscript_python.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/QtScriptTools/pyside_qtscripttools_python.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/QtSql/pyside_qtsql_python.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/QtSvg/pyside_qtsvg_python.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/QtTest/pyside_qttest_python.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/QtUiTools/pyside_qtuitools_python.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/QtWebKit/pyside_qtwebkit_python.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/QtXml/pyside_qtxml_python.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/QtXmlPatterns/pyside_qtxmlpatterns_python.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/destroylistener.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/dynamicqmetaobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/globalreceiver.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/phonon/pyside_phonon_python.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/pyside.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/pyside_global.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/pysideclassinfo.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/pysideconversions.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/pysidemacros.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/pysidemetafunction.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/pysideproperty.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/pysideqflags.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/pysidesignal.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/pysideweakref.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/PySide/signalmanager.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/autodecref.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/basewrapper.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/bindingmanager.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/conversions.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/gilstate.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/helper.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/python25compat.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/sbkconverter.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/sbkdbg.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/sbkenum.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/sbkmodule.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/sbkpython.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/sbkstring.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/sbkversion.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/shiboken.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/shibokenbuffer.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/shibokenmacros.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/threadstatesaver.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/include/shiboken/typeresolver.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/lconvert.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/linguist.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/lrelease.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/lupdate.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/openssl/libeay32.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/openssl/ssleay32.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/phonon.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/phonon4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/accessible/qtaccessiblecompatwidgets4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/accessible/qtaccessiblecompatwidgetsd4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/accessible/qtaccessiblewidgets4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/accessible/qtaccessiblewidgetsd4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/bearer/qgenericbearer4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/bearer/qgenericbearerd4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/bearer/qnativewifibearer4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/bearer/qnativewifibearerd4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/codecs/qcncodecs4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/codecs/qcncodecsd4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/codecs/qjpcodecs4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/codecs/qjpcodecsd4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/codecs/qkrcodecs4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/codecs/qkrcodecsd4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/codecs/qtwcodecs4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/codecs/qtwcodecsd4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/designer/arthurplugin.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/designer/containerextension.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/designer/containerextensiond.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/designer/customwidgetplugin.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/designer/phononwidgets.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/designer/qaxwidget.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/designer/qdeclarativeview.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/designer/qt3supportwidgets.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/designer/qwebview.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/designer/taskmenuextension.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/designer/taskmenuextensiond.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/designer/worldtimeclockplugin.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/graphicssystems/qglgraphicssystem4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/graphicssystems/qglgraphicssystemd4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/graphicssystems/qtracegraphicssystem4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/graphicssystems/qtracegraphicssystemd4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/iconengines/qsvgicon4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/iconengines/qsvgicond4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/imageformats/qgif4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/imageformats/qgifd4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/imageformats/qico4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/imageformats/qicod4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/imageformats/qjpeg4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/imageformats/qjpegd4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/imageformats/qmng4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/imageformats/qmngd4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/imageformats/qsvg4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/imageformats/qsvgd4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/imageformats/qtga4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/imageformats/qtgad4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/imageformats/qtiff4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/imageformats/qtiffd4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/phonon_backend/phonon_ds94.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/phonon_backend/phonon_ds9d4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/qmltooling/qmldbg_inspector4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/qmltooling/qmldbg_inspectord4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/qmltooling/qmldbg_tcp4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/qmltooling/qmldbg_tcpd4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/sqldrivers/qsqlite4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/sqldrivers/qsqlited4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/sqldrivers/qsqlodbc4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/sqldrivers/qsqlodbcd4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/sqldrivers/qsqlpsql4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/plugins/sqldrivers/qsqlpsqld4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/pyside-lupdate.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/pyside-python3.4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/pyside-python3.4.lib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/pyside-rcc.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/scripts/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/scripts/uic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/shiboken-python3.4.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/shiboken-python3.4.lib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/shiboken.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/shiboken.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/assistant_cs.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/assistant_da.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/assistant_de.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/assistant_fr.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/assistant_hu.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/assistant_ja.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/assistant_ko.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/assistant_pl.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/assistant_ru.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/assistant_sl.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/assistant_uk.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/assistant_zh_CN.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/assistant_zh_TW.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/designer_cs.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/designer_de.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/designer_fr.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/designer_hu.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/designer_ja.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/designer_ko.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/designer_pl.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/designer_ru.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/designer_sl.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/designer_uk.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/designer_zh_CN.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/designer_zh_TW.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/linguist_cs.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/linguist_de.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/linguist_fr.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/linguist_hu.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/linguist_ja.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/linguist_ko.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/linguist_pl.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/linguist_ru.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/linguist_sl.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/linguist_uk.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/linguist_zh_CN.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/linguist_zh_TW.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_ar.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_cs.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_da.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_de.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_es.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_fa.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_fr.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_gl.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_he.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_help_cs.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_help_da.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_help_de.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_help_fr.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_help_gl.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_help_hu.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_help_ja.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_help_ko.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_help_pl.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_help_ru.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_help_sl.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_help_uk.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_help_zh_CN.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_help_zh_TW.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_hu.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_ja.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_ko.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_lt.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_pl.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_pt.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_ru.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_sk.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_sl.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_sv.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_uk.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_zh_CN.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qt_zh_TW.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qtconfig_hu.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qtconfig_ja.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qtconfig_ko.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qtconfig_pl.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qtconfig_ru.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qtconfig_sl.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qtconfig_uk.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qtconfig_zh_CN.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qtconfig_zh_TW.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qvfb_hu.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qvfb_ja.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qvfb_ko.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qvfb_pl.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qvfb_ru.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qvfb_sl.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qvfb_uk.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qvfb_zh_CN.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/translations/qvfb_zh_TW.qm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_core.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_core_common.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_core_mac.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_core_maemo.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_core_win.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_core_x11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_declarative.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_gui.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_gui_common.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_gui_mac.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_gui_maemo.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_gui_simulator.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_gui_win.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_gui_x11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_help.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_multimedia.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_network.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_opengl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_phonon.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_script.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_scripttools.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_sql.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_svg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_templates.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_uitools.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_webkit.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_webkit_simulator.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PySide/typesystems/typesystem_xmlpatterns.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/A07/A07.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/A07/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/A08/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A05/MyController.py" afterPath="$PROJECT_DIR$/A05/MyController.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A06/mySynchThread.py" afterPath="$PROJECT_DIR$/A06/mySynchThread.py" />
     </list>
     <ignored path="mvojnovic_python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1119,10 +25,11 @@
     <SUITE FILE_PATH="coverage/mvojnovic_python$Unittests_in_Unit_Vergleich.coverage" NAME="Unittests in Unit_Vergleich Coverage Results" MODIFIED="1477255368941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A04/Tests" />
     <SUITE FILE_PATH="coverage/mvojnovic_python$Unittests_in_Unit_Subtraktion.coverage" NAME="Unittests in Unit_Subtraktion Coverage Results" MODIFIED="1477256085467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A04/Tests" />
     <SUITE FILE_PATH="coverage/mvojnovic_python$Unittests_in_TestAddition.coverage" NAME="Unittests in TestAddition Coverage Results" MODIFIED="1477228496146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A04/Tests" />
+    <SUITE FILE_PATH="coverage/mvojnovic_python$A07.coverage" NAME="A07 Coverage Results" MODIFIED="1479678914724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A07" />
     <SUITE FILE_PATH="coverage/mvojnovic_python$Unittests_in_Unit_Multiplikation.coverage" NAME="Unittests in Unit_Multiplikation Coverage Results" MODIFIED="1477255847908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A04/Tests" />
     <SUITE FILE_PATH="coverage/mvojnovic_python$MyController.coverage" NAME="MyController Coverage Results" MODIFIED="1479067660129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A05" />
     <SUITE FILE_PATH="coverage/mvojnovic_python$A02.coverage" NAME="A02 Coverage Results" MODIFIED="1477227994433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A02" />
-    <SUITE FILE_PATH="coverage/mvojnovic_python$mySynchThread.coverage" NAME="mySynchThread Coverage Results" MODIFIED="1479072188743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A06" />
+    <SUITE FILE_PATH="coverage/mvojnovic_python$mySynchThread.coverage" NAME="mySynchThread Coverage Results" MODIFIED="1479291378597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A06" />
     <SUITE FILE_PATH="coverage/mvojnovic_python$Unittest_TestAllgemein_testInvert.coverage" NAME="Unittest TestAllgemein.testInvert Coverage Results" MODIFIED="1477242719045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A04/Tests" />
     <SUITE FILE_PATH="coverage/mvojnovic_python$Unittests_in_Unit_Division.coverage" NAME="Unittests in Unit_Division Coverage Results" MODIFIED="1477255972782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A04/Tests" />
     <SUITE FILE_PATH="coverage/mvojnovic_python$Unittests_in_Unit_Allgemein.coverage" NAME="Unittests in Unit_Allgemein Coverage Results" MODIFIED="1477255953477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A04/Tests" />
@@ -1140,11 +47,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mySynchThread.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/A06/mySynchThread.py">
+      <file leaf-file-name="A07.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/A07/A07.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="164" column="68" selection-start-line="164" selection-start-column="68" selection-end-line="164" selection-end-column="68" />
+            <state relative-caret-position="240">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -1155,7 +62,7 @@
       <file leaf-file-name="A02.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/A02/A02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
+            <state relative-caret-position="1312">
               <caret line="84" column="0" selection-start-line="105" selection-start-column="8" selection-end-line="107" selection-end-column="16" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
@@ -1198,6 +105,7 @@
         <option value="$PROJECT_DIR$/A05/MyController.py" />
         <option value="$PROJECT_DIR$/A06/mySynchThreadClass.py" />
         <option value="$PROJECT_DIR$/A06/mySynchThread.py" />
+        <option value="$PROJECT_DIR$/A07/A07.py" />
       </list>
     </option>
   </component>
@@ -1256,7 +164,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="A06" />
+              <option name="myItemId" value="A08" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1300,7 +208,7 @@
       <recent name="D:\Schule\mvojnovic_python\A04\Tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mySynchThread">
+  <component name="RunManager" selected="Python.A07">
     <configuration default="false" name="Unittests in Testall" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1313,29 +221,6 @@
       <module name="mvojnovic_python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A04/Tests/Testall.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in Unit_Addition" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A04/Tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mvojnovic_python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A04/Tests/Unit_Addition.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -1397,6 +282,24 @@
       <module name="mvojnovic_python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A06/mySynchThread.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="A07" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mvojnovic_python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A07/A07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -1611,18 +514,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in Testall" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in Unit_Addition" />
-      <item index="2" class="java.lang.String" itemvalue="Python.MyView" />
-      <item index="3" class="java.lang.String" itemvalue="Python.MyController" />
-      <item index="4" class="java.lang.String" itemvalue="Python.mySynchThread" />
+      <item index="1" class="java.lang.String" itemvalue="Python.MyView" />
+      <item index="2" class="java.lang.String" itemvalue="Python.MyController" />
+      <item index="3" class="java.lang.String" itemvalue="Python.mySynchThread" />
+      <item index="4" class="java.lang.String" itemvalue="Python.A07" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.mySynchThread" />
-        <item index="1" class="java.lang.String" itemvalue="Python.MyController" />
-        <item index="2" class="java.lang.String" itemvalue="Python.MyView" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in Testall" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in Unit_Addition" />
+        <item index="0" class="java.lang.String" itemvalue="Python.A07" />
+        <item index="1" class="java.lang.String" itemvalue="Python.mySynchThread" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MyController" />
+        <item index="3" class="java.lang.String" itemvalue="Python.MyView" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in Testall" />
       </list>
     </recent_temporary>
   </component>
@@ -1675,25 +578,25 @@
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24112734" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2400835" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25506938" sideWeight="0.5187892" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25506938" sideWeight="0.48121086" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957717" sideWeight="0.49791667" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25186765" sideWeight="0.48121086" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30202776" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41331923" sideWeight="0.49791667" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957717" sideWeight="0.49791667" order="4" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1721,13 +624,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/A04/Tests/Unit_Zusatz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/A04/A04.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1952,13 +848,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Python/Lib/threading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="850" column="8" selection-start-line="850" selection-start-column="8" selection-end-line="850" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Python/Lib/unittest/case.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
@@ -2047,7 +936,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2063,13 +951,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A02/A02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
+        <state relative-caret-position="1312">
           <caret line="84" column="0" selection-start-line="105" selection-start-column="8" selection-end-line="107" selection-end-column="16" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
@@ -2079,8 +966,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/A06/mySynchThread.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="164" column="68" selection-start-line="164" selection-start-column="68" selection-end-line="164" selection-end-column="68" />
+        <state relative-caret-position="176">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="913" column="0" selection-start-line="913" selection-start-column="0" selection-end-line="913" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A07/A07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
